@@ -1,0 +1,13 @@
+.parent{
+border: solid blueviolet;
+display:block;
+margin: 10 px;
+}
+.child-1-son{
+border:solid blue;
+margin: 10 px;
+}
+.child-2-daughter{
+    border:solid green;
+    margin: 10 px;
+}
